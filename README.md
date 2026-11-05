@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mhaase-software/FileBunker-Releases/releases/latest"><strong>⬇ Download</strong></a> ·
+  <a href="https://github.com/mhaase-software/FileBunker/releases/latest"><strong>⬇ Download</strong></a> ·
   <a href="https://mhaase.ch/filebunker/">Website</a> ·
   <a href="https://mhaase.ch/filebunker/#faq">Häufige Fragen</a> ·
   <a href="https://mhaase.ch/en/filebunker/">English</a>
@@ -50,7 +50,7 @@ FileBunker spricht selbst mit keinem Clouddienst.
 
 ## Download und Installation
 
-Unter [**Releases**](https://github.com/mhaase-software/FileBunker-Releases/releases/latest) oder auf [mhaase.ch/filebunker](https://mhaase.ch/filebunker/#download):
+Unter [**Releases**](https://github.com/mhaase-software/FileBunker/releases/latest) oder auf [mhaase.ch/filebunker](https://mhaase.ch/filebunker/#download):
 
 - **FileBunker-Setup-1.4.3.exe** – installiert nur für dich, ohne Adminrechte, Deutsch oder Englisch
 - **FileBunker-1.4.3.msi** – installiert für alle Benutzer nach `C:\Program Files`, für Intune oder Gruppenrichtlinien
@@ -70,7 +70,7 @@ mhaase software erhält keine Dateien, Dateinamen oder Passwörter. Einmal am Ta
 ## Fragen und Kontakt
 
 - Häufige Fragen: [mhaase.ch/filebunker/#faq](https://mhaase.ch/filebunker/#faq)
-- Fehler gefunden oder eine Idee? [Issue eröffnen](https://github.com/mhaase-software/FileBunker-Releases/issues) oder an kontakt@mhaase.ch schreiben.
+- Fehler gefunden oder eine Idee? [Issue eröffnen](https://github.com/mhaase-software/FileBunker/issues) oder an kontakt@mhaase.ch schreiben.
 
 ---
 
