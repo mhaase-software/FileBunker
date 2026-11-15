@@ -28,7 +28,7 @@ FileBunker sichert deine Ordner verschlüsselt und platzsparend: auf eine USB-Di
 
 - **Verschlüsselt** – AES-256-GCM. Ohne dein Passwort kann niemand die Daten lesen, auch nicht in der Cloud.
 - **Platzsparend** – Dateien werden in Blöcke zerlegt, jeder Block wird nur einmal gespeichert. Dazu Komprimierung.
-- **Versionen und schlaues Aufräumen** – je die neuste Version der letzten 7 Tage, 4 Wochen und 12 Monate.
+- **Versionen und schlaues Aufräumen** – alle Versionen der letzten 2 Tage, danach je die neuste der letzten 7 Tage, 4 Wochen und 12 Monate.
 - **Zeitplan und USB-Erkennung** – verpasste Sicherungen werden nachgeholt, USB-Disks am Backup erkannt.
 - **Wiederherstellen mit Suche** – jede Fassung einer Datei in allen Versionen finden.
 - **Sync-Jobs (Spiegeln)** – Ordner A als normale Kopie nach B, Gelöschtes 30 Tage im Papierkorb von B. Ist A plötzlich leer, wird in B nichts entfernt.
@@ -52,8 +52,8 @@ FileBunker spricht selbst mit keinem Clouddienst.
 
 Unter [**Releases**](https://github.com/mhaase-software/FileBunker/releases/latest) oder auf [mhaase.ch/filebunker](https://mhaase.ch/filebunker/#download):
 
-- **FileBunker-Setup-1.4.3.exe** – installiert nur für dich, ohne Adminrechte, Deutsch oder Englisch
-- **FileBunker-1.4.3.msi** – installiert für alle Benutzer nach `C:\Program Files`, für Intune oder Gruppenrichtlinien
+- **FileBunker-Setup-1.4.5.exe** – installiert nur für dich, ohne Adminrechte, Deutsch oder Englisch
+- **FileBunker-1.4.5.msi** – installiert für alle Benutzer nach `C:\Program Files`, für Intune oder Gruppenrichtlinien
 
 FileBunker ist nicht digital signiert. Windows SmartScreen zeigt deshalb beim ersten Start eine Warnung: **Weitere Informationen → Trotzdem ausführen**. Die SHA-256-Prüfsumme steht bei jedem Release.
 
